@@ -1,3 +1,3 @@
 # Python-Fasttrack-Session
 
-This repository contains python notes...
+This repository contains python notes
